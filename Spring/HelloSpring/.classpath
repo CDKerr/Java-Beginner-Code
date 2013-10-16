@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Christopher.Kerr/Downloads/commons-lang3-3.1-bin.zip"/>
+	<classpathentry kind="lib" path="C:/java/eclipse/3.7-64/plugins/org.springframework.aop_4.0.0.20130522-M1.jar"/>
+	<classpathentry kind="lib" path="C:/java/eclipse/3.7-64/plugins/org.springframework.beans_4.0.0.20130522-M1.jar"/>
+	<classpathentry kind="lib" path="C:/java/eclipse/3.7-64/plugins/org.springframework.context.support_4.0.0.20130522-M1.jar"/>
+	<classpathentry kind="lib" path="C:/java/eclipse/3.7-64/plugins/org.springframework.context_4.0.0.20130522-M1.jar"/>
+	<classpathentry kind="lib" path="C:/java/eclipse/3.7-64/plugins/org.springframework.core_4.0.0.20130522-M1.jar"/>
+	<classpathentry kind="lib" path="C:/java/eclipse/3.7-64/plugins/org.springframework.expression_4.0.0.20130522-M1.jar"/>
+	<classpathentry kind="lib" path="C:/java/eclipse/3.7-64/plugins/org.apache.commons.logging_1.0.4.v201101211617.jar"/>
+	<classpathentry kind="lib" path="C:/java/eclipse/3.7-64/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-antlr.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
